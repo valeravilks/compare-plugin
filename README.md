@@ -1,15 +1,15 @@
-# Woocommerce compare count
-Данный плагин разработан как дополнение для плагину 
+# Woocommerce compare quantity
+This plugin is designed as an add-on for the plugin
 YITH WooCommerce Compare.
 
-В беслатной версии данного плагина нет возможности показывать число товаров, которые добавленны к сравнению, данное дополнение теперь реализует эту возможность.
+Unlike this add-on, it implements this feature.
 
-## Как пользоваться
-* Установить плагин в Wordpress и активировать.
-* В нужном месте php кода  добавить шорткод 
-```$xslt
-<?php do_shortcode('[woocompare-count]')?>
+## How to use
+* Install plugin in Wordpress and activate.
+* In the right place in the php code add a shortcode
+``` $ xslt
+<? php do_shortcode ('[woocompare-count]')?>
 ```
 
-## Предупреждения
-Данный плагин создан для личные целей и не поддерживается и не обновляется. Из этого, с течением времени его функционал может перестать работать.
+## Warnings
+This plugin is created for personal use and is not updated. From this, over time, its functionality may stop working.
